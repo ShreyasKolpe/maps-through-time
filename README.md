@@ -1,0 +1,1 @@
+This project aims to be a rich exploration tool for imagining places as they would have been seen by people long ago. It essentially will be a map interface which will let you slide back in time through maps of yore.
